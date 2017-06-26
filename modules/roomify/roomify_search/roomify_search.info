@@ -50,6 +50,7 @@ features[panels_mini][] = available_properties_grid
 features[search_api_index][] = activities_index
 features[search_api_index][] = properties_index
 features[search_api_server][] = properties
+features[search_api_sort][] = properties_index__average_rating
 features[search_api_sort][] = properties_index__priority
 features[search_api_sort][] = properties_index__search_api_aggregation_1
 features[search_api_sort][] = properties_index__search_api_relevance
